@@ -10,8 +10,10 @@ RUN apt-get update &&\
             curl \
             hping3 \
             iproute2 \
+            iputils-arping \
             jq \
             less \
+            net-tools \
             netcat \
             socat \
             vim-tiny \
