@@ -16,6 +16,8 @@ RUN apt-get update &&\
             net-tools \
             netcat \
             socat \
+            swaks \
+            telnet \
             vim-tiny \
             wget &&\
     apt-get clean autoclean &&\
